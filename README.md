@@ -1,4 +1,4 @@
-# All About Advanced Java
+# Advanced Java Course
 
 
 
